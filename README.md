@@ -42,7 +42,11 @@
 
 ![image-20250717140724726](./assets/image-20250717140724726.png)
 
+
+
+
 ## 演示视频
 
-<video id="video" controls=""src="./assets/video.mp4" preload="none">
+[<video id="video" controls=""src="./assets/video.mp4" preload="none">](https://github.com/user-attachments/assets/de0441b2-f610-4323-86dc-71d85d117fa9
+)
 
